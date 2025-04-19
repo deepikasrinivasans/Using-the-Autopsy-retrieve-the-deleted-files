@@ -1,5 +1,5 @@
 # Using-the-Autopsy-retrieve-the-deleted-files
-### Name " Deepika S
+### Name : Deepika S
 ### Reg No: 212222230028
 ## AIM:
 To use Autopsy in Kali Linux to retrieve and analyze deleted files from a disk image.
