@@ -34,24 +34,25 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 - Enter a **Case Name** (e.g., `Autopsy1`).  
 - Choose a **Case Folder** location.  
 - Click **Next** → Click **Finish**.  
+![dfdi2](https://github.com/user-attachments/assets/add84cc9-66ba-48e8-9a3a-bf078f9b6b43)
 
-![Uploading dfdi2.png…]()
 
 
 ### **Add the Virtual Disk as an Evidence Source**  
 - Click **Add Data Source**  → **Select Host**
 
 
-![Uploading dfdi3.png…]()
+![dfdi3](https://github.com/user-attachments/assets/934da0c2-6fc6-4166-937d-78fce3c18617)
+
 
 - Select **Local Disk** → **next** 
 
+![dfdi4](https://github.com/user-attachments/assets/d9589646-8c79-45bc-8d3c-0953af07d3f1)
 
-![Uploading dfdi4.png…]()
 
 - Select Disk → **Choose the VHD drive (`Drive1`)**
 
-![Uploading dfdi5.png…]()
+![dfdi5](https://github.com/user-attachments/assets/6e8a0655-b707-491a-902e-c4908d96bc01)
 
 
 - Click **Next** → Keep default settings → Click **Finish**.  
